@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Meet"
+        android:id="@+id/meetfragment"
+        android:icon="@drawable/ic_baseline_videocam_24"
+        />
+    <item android:title="Like"
+        android:id="@+id/likeFragment"
+        android:icon="@drawable/heart"
+        />
+    <item android:title="Person"
+        android:id="@+id/personFragment"
+        android:icon="@drawable/ic_baseline_person_24"
+        />
+    <item android:title="Setting"
+        android:id="@+id/settingFragment"
+        android:icon="@drawable/ic_baseline_settings_24"
+        />
+
+
+</menu>

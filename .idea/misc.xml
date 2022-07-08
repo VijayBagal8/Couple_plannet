@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/drawable-v24/textround.xml" value="0.147" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/drawable/buttonround.xml" value="0.147" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/drawable/fbicon.xml" value="0.147" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/drawable/heart.xml" value="0.147" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/drawable/ic_baseline_eye.xml" value="0.147" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.147" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/drawable/ic_baseline_send_to_mobile_24.xml" value="0.147" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/drawable/text_round.xml" value="0.147" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/layout/activity_forgot_password.xml" value="0.2" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/layout/activity_login_with_option.xml" value="0.2" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/layout/fragment_like.xml" value="0.2" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/layout/fragment_meet.xml" value="0.2" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/layout/fragment_person.xml" value="0.2" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/layout/fragment_setting.xml" value="0.2" />
+        <entry key="..\:/Users/Vijay/AndroidStudioProjects/Couple_plannet/app/src/main/res/menu/bottom_nav.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
